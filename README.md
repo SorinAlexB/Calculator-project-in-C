@@ -1,2 +1,2 @@
-# Calculator-project-in-C-
+# Calculator-project-in-C++
 A simple calculator in C++ with basic functions
